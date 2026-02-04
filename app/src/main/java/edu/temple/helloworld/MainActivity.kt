@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
                 displayTextView.text = "Hello, $name"
             }
         }
-
+        //just need this comment for the commit
 
     }
 }
